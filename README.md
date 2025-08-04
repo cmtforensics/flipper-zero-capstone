@@ -1,2 +1,2 @@
 # flipper-zero-capstone
-Capstone project exploring the penetration testing capabilities and ethical implications of the Flipper Zero.
+Capstone project assessing Flipper Zero's effectiveness in Wi-Fi exploitation, ethical hacking, and network defense.
